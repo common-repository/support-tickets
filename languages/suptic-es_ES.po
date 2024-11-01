@@ -1,0 +1,674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Support Tickets plugin for WordPress in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-24 12:29+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: campanilla <campanilla@campanilla.info>\n"
+"Language-Team: Gianni Diurno | http://gidibao.net/ <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: support-tickets\n"
+
+#: support-tickets/admin/admin.php:43
+msgid "optional"
+msgstr "opcional"
+
+#: support-tickets/admin/admin.php:44
+msgid "Generate Tag"
+msgstr "Generar tag"
+
+#: support-tickets/admin/admin.php:45
+msgid "Text field"
+msgstr "campo de texto"
+
+#: support-tickets/admin/admin.php:46
+msgid "Email field"
+msgstr "Campo e-mail"
+
+#: support-tickets/admin/admin.php:47
+msgid "Text area"
+msgstr "Área de texto"
+
+#: support-tickets/admin/admin.php:48
+msgid "Drop-down menu"
+msgstr "Desplegable"
+
+#: support-tickets/admin/admin.php:49
+msgid "Checkboxes"
+msgstr "Casilla de verificación"
+
+#: support-tickets/admin/admin.php:50
+msgid "Radio buttons"
+msgstr "Botón de exclusión"
+
+#: support-tickets/admin/admin.php:51
+msgid "Acceptance"
+msgstr "Consentimiento"
+
+#: support-tickets/admin/admin.php:52
+msgid "Make this checkbox checked by default?"
+msgstr "¿Desea que esta casilla de verificación este seleccionada? (predefinido)"
+
+#: support-tickets/admin/admin.php:53
+msgid "Make this checkbox work inversely?"
+msgstr "¿Desea que esta casilla de verificación trabaje de manera inversa??"
+
+#: support-tickets/admin/admin.php:54
+msgid "* That means visitor who accepts the term unchecks it."
+msgstr "* Esto indica que el visitante tendrá que anular la selección de la casilla para dar su consentimiento."
+
+#: support-tickets/admin/admin.php:55
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: support-tickets/admin/admin.php:56
+msgid "Quiz"
+msgstr "Acertijo"
+
+#: support-tickets/admin/admin.php:57
+msgid "Quizzes"
+msgstr "Acertijos"
+
+#: support-tickets/admin/admin.php:58
+msgid "* quiz|answer (e.g. 1+1=?|2)"
+msgstr "* acertijo|solucion (ejemplo: 1+1=?|2)"
+
+#: support-tickets/admin/admin.php:59
+msgid "Submit button"
+msgstr "Botón de envío"
+
+#: support-tickets/admin/admin.php:60
+msgid "Name"
+msgstr "Nombre"
+
+#: support-tickets/admin/admin.php:61
+msgid "Required field?"
+msgstr "Campo obligatorio?"
+
+#: support-tickets/admin/admin.php:62
+msgid "Allow multiple selections?"
+msgstr "¿Desea permitir selecciones multiples?"
+
+#: support-tickets/admin/admin.php:63
+msgid "Insert a blank item as the first option?"
+msgstr "¿Quieres dejar en blanco la primera opción?"
+
+#: support-tickets/admin/admin.php:64
+msgid "Make checkboxes exclusive?"
+msgstr "Casillas de verificación excluyentes"
+
+#: support-tickets/admin/admin.php:65
+msgid "Choices"
+msgstr "Opciones disponibles"
+
+#: support-tickets/admin/admin.php:66
+msgid "Label"
+msgstr "Etiqueta"
+
+#: support-tickets/admin/admin.php:67
+msgid "Default value"
+msgstr "Valor por defecto"
+
+#: support-tickets/admin/admin.php:68
+msgid "Akismet"
+msgstr "Akismet"
+
+#: support-tickets/admin/admin.php:69
+msgid "This field requires author's name"
+msgstr "Este campo requiere el nombre del autor"
+
+#: support-tickets/admin/admin.php:70
+msgid "This field requires author's URL"
+msgstr "Este campo requiere la URL del autor"
+
+#: support-tickets/admin/admin.php:71
+msgid "This field requires author's email address"
+msgstr "Este campo requiere el e-mail del autor"
+
+#: support-tickets/admin/admin.php:72
+msgid "Copy this code and paste it into the form left."
+msgstr "Copia este código y pégalo en el formulario de tu izquierda."
+
+#: support-tickets/admin/admin.php:73
+msgid "Foreground color"
+msgstr "Color de primer plano"
+
+#: support-tickets/admin/admin.php:74
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: support-tickets/admin/admin.php:75
+msgid "Image size"
+msgstr "tamaño de la imagen"
+
+#: support-tickets/admin/admin.php:76
+msgid "Small"
+msgstr "Pequeña"
+
+#: support-tickets/admin/admin.php:77
+msgid "Medium"
+msgstr "Mediana"
+
+#: support-tickets/admin/admin.php:78
+msgid "Large"
+msgstr "Grande"
+
+#: support-tickets/admin/admin.php:79
+msgid "Image settings"
+msgstr "Ajustes de imagen"
+
+#: support-tickets/admin/admin.php:80
+msgid "Input field settings"
+msgstr "Ajustes del campo input"
+
+#: support-tickets/admin/admin.php:81
+msgid "For image"
+msgstr "Para las imágenes"
+
+#: support-tickets/admin/admin.php:82
+msgid "For input field"
+msgstr "Para el campo input"
+
+#: support-tickets/admin/admin.php:83
+msgid "* One choice per line."
+msgstr "* Una opción por linea"
+
+#: support-tickets/admin/admin.php:84
+msgid "Note: To use CAPTCHA, you need Really Simple CAPTCHA plugin installed."
+msgstr "Nota: el uso de CAPTCHA requiere la instalación del plugin de Really Simple CAPTCHA."
+
+#: support-tickets/admin/admin.php:95
+#: support-tickets/admin/admin.php:111
+#: support-tickets/admin/admin.php:127
+#: support-tickets/admin/admin.php:139
+#: support-tickets/admin/admin.php:153
+#: support-tickets/admin/admin.php:167
+#: support-tickets/admin/admin.php:184
+msgid "Cheatin&#8217; uh?"
+msgstr "Trampas ¿eh?"
+
+#: support-tickets/admin/admin.php:222
+msgid "Support Tickets"
+msgstr "Tickets de soporte"
+
+#: support-tickets/admin/admin.php:222
+msgid "Support"
+msgstr "Soporte"
+
+#: support-tickets/admin/admin.php:225
+#: support-tickets/admin/edit-forms.php:27
+msgid "Edit Forms"
+msgstr "Modificar formularios"
+
+#: support-tickets/admin/admin.php:225
+msgid "Forms"
+msgstr "Formularios"
+
+#: support-tickets/admin/admin.php:228
+#: support-tickets/admin/edit-tickets.php:50
+msgid "Edit Tickets"
+msgstr "Editar tickets"
+
+#: support-tickets/admin/admin.php:228
+msgid "Tickets"
+msgstr "Tickets"
+
+#: support-tickets/admin/admin.php:237
+msgid "Form created."
+msgstr "Formulario creado"
+
+#: support-tickets/admin/admin.php:239
+msgid "Form updated."
+msgstr "Formulario actualizado"
+
+#: support-tickets/admin/admin.php:241
+msgid "Form deleted."
+msgstr "Formulario borrado"
+
+#: support-tickets/admin/admin.php:243
+msgid "Ticket closed."
+msgstr "Ticket cerrado"
+
+#: support-tickets/admin/admin.php:245
+msgid "Ticket reopened."
+msgstr "Ticket reabierto"
+
+#: support-tickets/admin/admin.php:247
+msgid "Ticket deleted."
+msgstr "Ticket borrado"
+
+#: support-tickets/admin/admin.php:249
+msgid "Ticket updated."
+msgstr "Ticket actualizado"
+
+#: support-tickets/admin/admin.php:251
+msgid "Tickets closed."
+msgstr "Tickets cerrados"
+
+#: support-tickets/admin/admin.php:253
+msgid "Tickets deleted."
+msgstr "Tickets borrados"
+
+#: support-tickets/admin/admin.php:264
+msgid "Recent Updated Support Tickets"
+msgstr "Tickets de soporte recientemente actualizados"
+
+#: support-tickets/admin/admin.php:274
+msgid "No support tickets yet."
+msgstr "Ningún ticket de soporte todavía"
+
+#: support-tickets/admin/admin.php:287
+#, php-format
+msgid "From %1$s on %2$s"
+msgstr "Desde %1$s hasta %2$s"
+
+#: support-tickets/admin/admin.php:297
+msgid "No messages yet."
+msgstr "Ningún mensaje todavía"
+
+#: support-tickets/admin/admin.php:306
+msgid "View all"
+msgstr "Ver todo"
+
+#: support-tickets/admin/edit-forms.php:36
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: support-tickets/admin/edit-forms.php:60
+msgid "Form Page"
+msgstr "Página del formulario"
+
+#: support-tickets/admin/edit-forms.php:63
+msgid "- Select -"
+msgstr "- Seleccionar-"
+
+#: support-tickets/admin/edit-forms.php:68
+msgid "View Page"
+msgstr "Ver página"
+
+#: support-tickets/admin/edit-forms.php:75
+#: support-tickets/admin/edit-forms.php:119
+msgid "Create Form"
+msgstr "Crear formulario"
+
+#: support-tickets/admin/edit-forms.php:77
+#: support-tickets/admin/edit-forms.php:121
+msgid "Update Form"
+msgstr "Actualizar formulario"
+
+#: support-tickets/admin/edit-forms.php:84
+msgid "Delete Form"
+msgstr "Borrar formulario"
+
+#: support-tickets/admin/edit-forms.php:86
+msgid ""
+"You are about to delete this form.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Estás a punto de eliminar este formulario. \n"
+"'Cancelar' para detener, 'OK' para borrar."
+
+#: support-tickets/admin/edit-forms.php:98
+msgid "Form Design"
+msgstr "Estilo de formulario"
+
+#: support-tickets/admin/edit-ticket.php:3
+msgid "Edit Ticket"
+msgstr "Editar ticket"
+
+#: support-tickets/admin/edit-ticket.php:26
+#: support-tickets/admin/edit-tickets.php:124
+#: support-tickets/admin/edit-tickets.php:137
+msgid "Author"
+msgstr "Autor"
+
+#: support-tickets/admin/edit-ticket.php:31
+#: support-tickets/admin/edit-tickets.php:127
+#: support-tickets/admin/edit-tickets.php:140
+msgid "Created"
+msgstr "Creado"
+
+#: support-tickets/admin/edit-ticket.php:36
+#: support-tickets/admin/edit-tickets.php:128
+#: support-tickets/admin/edit-tickets.php:141
+msgid "Updated"
+msgstr "Actualizado"
+
+#: support-tickets/admin/edit-ticket.php:41
+#: support-tickets/admin/edit-tickets.php:129
+#: support-tickets/admin/edit-tickets.php:142
+#: support-tickets/includes/classes.php:583
+msgid "Status"
+msgstr "Estado"
+
+#: support-tickets/admin/edit-ticket.php:47
+msgid "Additional Fields"
+msgstr "Campos adicionales"
+
+#: support-tickets/admin/edit-ticket.php:66
+msgid "View Ticket Page"
+msgstr "Ver página de ticket"
+
+#: support-tickets/admin/edit-ticket.php:69
+#: support-tickets/includes/classes.php:592
+msgid "Close This Ticket"
+msgstr "Cerrar este ticket"
+
+#: support-tickets/admin/edit-ticket.php:71
+#: support-tickets/includes/classes.php:590
+msgid "Reopen This Ticket"
+msgstr "Reabrir este ticket"
+
+#: support-tickets/admin/edit-ticket.php:78
+msgid "Delete This Ticket"
+msgstr "Borrar este ticket"
+
+#: support-tickets/admin/edit-ticket.php:80
+msgid ""
+"You are about to delete this ticket.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Estás a punto de borrar este ticket. \n"
+"'Cancelar' para detener, 'OK' para borrar."
+
+#: support-tickets/admin/edit-ticket.php:97
+#: support-tickets/admin/edit-tickets.php:125
+#: support-tickets/admin/edit-tickets.php:138
+msgid "Messages"
+msgstr "mensajes"
+
+#: support-tickets/admin/edit-ticket.php:119
+#: support-tickets/includes/classes.php:1252
+msgid "This message is under draft status."
+msgstr "Este mensaje es un borrador"
+
+#: support-tickets/admin/edit-tickets.php:58
+msgid "All"
+msgstr "Todo"
+
+#: support-tickets/admin/edit-tickets.php:62
+msgid "Pending"
+msgstr "Pendiente"
+
+#: support-tickets/admin/edit-tickets.php:68
+msgid "Closed"
+msgstr "Cerrado"
+
+#: support-tickets/admin/edit-tickets.php:79
+#: support-tickets/admin/edit-tickets.php:82
+msgid "Search Tickets"
+msgstr "Buscar tickets"
+
+#: support-tickets/admin/edit-tickets.php:93
+#: support-tickets/admin/edit-tickets.php:183
+msgid "Bulk Actions"
+msgstr "Acciones masivas"
+
+#: support-tickets/admin/edit-tickets.php:94
+#: support-tickets/admin/edit-tickets.php:184
+msgid "Close"
+msgstr "Cerrar"
+
+#: support-tickets/admin/edit-tickets.php:95
+#: support-tickets/admin/edit-tickets.php:185
+msgid "Delete"
+msgstr "Borrar"
+
+#: support-tickets/admin/edit-tickets.php:97
+#: support-tickets/admin/edit-tickets.php:187
+msgid "Apply"
+msgstr "Aplicar"
+
+#: support-tickets/admin/edit-tickets.php:102
+msgid "Order by Update Time"
+msgstr "Ordenar por fecha de actualizacióm"
+
+#: support-tickets/admin/edit-tickets.php:104
+msgid "Order by Create Time"
+msgstr "Ordenar por fecha de creación"
+
+#: support-tickets/admin/edit-tickets.php:106
+msgid "Order by Ticket ID"
+msgstr "Ordenar por ID del ticket"
+
+#: support-tickets/admin/edit-tickets.php:110
+msgid "Filter"
+msgstr "Filtrar"
+
+#: support-tickets/admin/edit-tickets.php:123
+#: support-tickets/admin/edit-tickets.php:136
+#: support-tickets/includes/classes.php:488
+msgid "Subject"
+msgstr "Título"
+
+#: support-tickets/admin/edit-tickets.php:126
+#: support-tickets/admin/edit-tickets.php:139
+msgid "Form"
+msgstr "De"
+
+#: support-tickets/admin/edit-tickets.php:165
+#: support-tickets/includes/classes.php:596
+msgid "Edit"
+msgstr "Editar"
+
+#: support-tickets/admin/edit-tickets.php:201
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: support-tickets/admin/edit-tickets.php:202
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: support-tickets/includes/classes.php:65
+#: support-tickets/includes/controller.php:52
+msgid "Validation errors occurred. Please confirm the fields and submit it again."
+msgstr "Hubo un error. Compruebe que ha completado todos los campos requeridos y vuelva a enviar."
+
+#: support-tickets/includes/classes.php:68
+#: support-tickets/includes/controller.php:59
+#: support-tickets/includes/controller.php:72
+#: support-tickets/includes/controller.php:125
+msgid "Problem occurred. Please try later or contact administrator by other way."
+msgstr "Hubo un error. Por favor, inténtelo de nuevo más tarde o póngase en contacto con el administrador del sitio."
+
+#: support-tickets/includes/classes.php:470
+#: support-tickets/includes/classes.php:480
+msgid "Untitled"
+msgstr "Sin título"
+
+#: support-tickets/includes/classes.php:482
+msgid "Your Email"
+msgstr "Su e-mail"
+
+#: support-tickets/includes/classes.php:482
+#: support-tickets/includes/classes.php:488
+#: support-tickets/includes/classes.php:490
+msgid "(required)"
+msgstr "(requerido)"
+
+#: support-tickets/includes/classes.php:484
+msgid "First Name"
+msgstr "Nombre"
+
+#: support-tickets/includes/classes.php:486
+msgid "Last Name"
+msgstr "Apellido"
+
+#: support-tickets/includes/classes.php:490
+msgid "Message"
+msgstr "Mensaje"
+
+#: support-tickets/includes/classes.php:492
+msgid "Send"
+msgstr "Enviar"
+
+#: support-tickets/includes/classes.php:548
+msgid "This ticket has been closed."
+msgstr "Este ticket ha sido cerrado"
+
+#: support-tickets/includes/classes.php:564
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: support-tickets/includes/classes.php:603
+msgid "Previous pending ticket"
+msgstr "Ticket pendiente anterior"
+
+#: support-tickets/includes/classes.php:612
+msgid "Next pending ticket"
+msgstr "Ticket pendiente siguiente"
+
+#: support-tickets/includes/classes.php:623
+msgid "Ticket Info"
+msgstr "Información del ticket"
+
+#: support-tickets/includes/classes.php:674
+#, php-format
+msgid "%1$s %2$s|Name of person"
+msgstr "%1$s %2$s|Nombre de la persona"
+
+#: support-tickets/includes/controller.php:31
+#: support-tickets/includes/controller.php:97
+#: support-tickets/includes/controller.php:153
+#: support-tickets/includes/controller.php:191
+msgid "Please submit again."
+msgstr "Por favor , envíe de nuevo"
+
+#: support-tickets/includes/controller.php:56
+#: support-tickets/includes/controller.php:116
+msgid "Please accept the terms to proceed."
+msgstr "Debe aceptar los términos y condiciones antes de continuar"
+
+#: support-tickets/includes/controller.php:163
+msgid "Please input message."
+msgstr "Por favor, escriba un mensaje"
+
+#: support-tickets/includes/controller.php:215
+msgid "You are not allowed to see this ticket."
+msgstr "Usted no está autorizado a consultar este ticket"
+
+#: support-tickets/includes/formatting.php:84
+#, php-format
+msgid "%s ago"
+msgstr "%s hace"
+
+#: support-tickets/includes/formatting.php:86
+msgid "Y/m/d H:i"
+msgstr "d/m/Y G:i"
+
+#: support-tickets/includes/notifications.php:9
+#, php-format
+msgid "[%s] Support Tickets - Ticket Created (TKT:%d)"
+msgstr "[%s] Tickets de soporte - Ticket Creado (TKT:%d)"
+
+#: support-tickets/includes/notifications.php:12
+msgid "New support ticket created:"
+msgstr "Ha sido creado un nuevo ticket de soporte:"
+
+#: support-tickets/includes/notifications.php:15
+#: support-tickets/includes/notifications.php:49
+#, php-format
+msgid "Subject: %s"
+msgstr "Título: %s"
+
+#: support-tickets/includes/notifications.php:16
+#: support-tickets/includes/notifications.php:52
+#, php-format
+msgid "Author: %1$s %2$s"
+msgstr "Autor: %1$s %2$s"
+
+#: support-tickets/includes/notifications.php:18
+#: support-tickets/includes/notifications.php:55
+#, php-format
+msgid "Ticket tracking: %s"
+msgstr "Trazabilidad del ticket: %s"
+
+#: support-tickets/includes/notifications.php:21
+#: support-tickets/includes/notifications.php:57
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: support-tickets/includes/notifications.php:43
+#, php-format
+msgid "[%s] Support Tickets - You Got Reply (TKT:%d)"
+msgstr "[%s] Tickets de soporte - Hay una nueva respuesta (TKT:%d)"
+
+#: support-tickets/includes/notifications.php:46
+msgid "You got new reply message:"
+msgstr "Hay una nueva respuesta al mensaje:"
+
+#: support-tickets/modules/captcha.php:56
+msgid "To use CAPTCHA, you need <a href=\"http://wordpress.org/extend/plugins/really-simple-captcha/\">Really Simple CAPTCHA</a> plugin installed."
+msgstr "Para usar  CAPTCHA es necesario tener instalado el plugin <a href=\"http://wordpress.org/extend/plugins/really-simple-captcha/\">Really Simple CAPTCHA</a>."
+
+#: support-tickets/modules/captcha.php:120
+msgid "Your entered code is incorrect."
+msgstr "El código que ha introducido no es correcto."
+
+#: support-tickets/modules/checkbox.php:142
+#: support-tickets/modules/select.php:125
+#: support-tickets/modules/text.php:103
+#: support-tickets/modules/text.php:110
+#: support-tickets/modules/textarea.php:92
+msgid "Please fill the required field."
+msgstr "Complete los campos requeridos."
+
+#: support-tickets/modules/icl.php:297
+msgid "All languages"
+msgstr "Todos los idiomas"
+
+#: support-tickets/modules/icl.php:476
+msgid "Translate this reply to visitor's language?"
+msgstr "¿Desea traducir esta respuesta al idioma del visitante?"
+
+#: support-tickets/modules/icl.php:478
+#: support-tickets/modules/icl.php:666
+#, php-format
+msgid "%1$s &raquo; %2$s"
+msgstr "%1$s &raquo; %2$s"
+
+#: support-tickets/modules/icl.php:660
+msgid "Translation"
+msgstr "Traducción"
+
+#: support-tickets/modules/icl.php:664
+msgid "Translated by Google"
+msgstr "Traducido por Google"
+
+#: support-tickets/modules/icl.php:665
+msgid "Translated by human translator"
+msgstr "Traducido por una persona"
+
+#: support-tickets/modules/paypal.php:54
+#, php-format
+msgid "[%s] Support Tickets - Paid Support - Ticket #%d"
+msgstr "[%s] Tickets de soporte - Soporte de facturación - Ticket #%d"
+
+#: support-tickets/modules/paypal.php:60
+msgid "Return to Support Ticket Page"
+msgstr "Volver a la página del ticket de soporte"
+
+#: support-tickets/modules/paypal.php:77
+#, php-format
+msgid "Pay Now : %s"
+msgstr "Pagar ahora : %s"
+
+#: support-tickets/modules/paypal.php:78
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+#: support-tickets/modules/quiz.php:97
+msgid "Your answer is not correct."
+msgstr "Su respuesta no es correcta."
+
+#: support-tickets/modules/text.php:113
+msgid "Email address seems invalid."
+msgstr "Dirección e-mail inválida."
+

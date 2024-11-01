@@ -1,0 +1,760 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Support Tickets plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-26 19:09+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: support-tickets\n"
+
+#: support-tickets/admin/admin.php:43
+msgid "optional"
+msgstr "opsiyonel"
+
+#: support-tickets/admin/admin.php:44
+msgid "Generate Tag"
+msgstr "Etiket oluştur."
+
+#: support-tickets/admin/admin.php:45
+msgid "Text field"
+msgstr "Text elemanı"
+
+#: support-tickets/admin/admin.php:46
+msgid "Email field"
+msgstr "E-posta elemanı"
+
+#: support-tickets/admin/admin.php:47
+msgid "Text area"
+msgstr "Text alanı"
+
+#: support-tickets/admin/admin.php:48
+msgid "Drop-down menu"
+msgstr "Açlır menü"
+
+#: support-tickets/admin/admin.php:49
+msgid "Checkboxes"
+msgstr "Checkboxlar"
+
+#: support-tickets/admin/admin.php:50
+msgid "Radio buttons"
+msgstr "Radio buttons"
+
+#: support-tickets/admin/admin.php:51
+msgid "Acceptance"
+msgstr "Sözleşme"
+
+#: support-tickets/admin/admin.php:52
+msgid "Make this checkbox checked by default?"
+msgstr "Bu button öntanımlı olarak işaretli olsun mu?"
+
+#: support-tickets/admin/admin.php:53
+msgid "Make this checkbox work inversely?"
+msgstr "Bu düğme tersine çalışsın mı?"
+
+#: support-tickets/admin/admin.php:54
+msgid "* That means visitor who accepts the term unchecks it."
+msgstr "* Bunun anlamı sözleşmeyi kabul eden kişinin kutu işaretini kaldırmasıdır."
+
+#: support-tickets/admin/admin.php:55
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: support-tickets/admin/admin.php:56
+msgid "Quiz"
+msgstr "Quiz"
+
+#: support-tickets/admin/admin.php:57
+msgid "Quizzes"
+msgstr "Quizler"
+
+#: support-tickets/admin/admin.php:58
+msgid "* quiz|answer (e.g. 1+1=?|2)"
+msgstr "* quiz|cevap (örn. 1+1=?|2)"
+
+#: support-tickets/admin/admin.php:59
+msgid "Submit button"
+msgstr "Gönder düğmesi"
+
+#: support-tickets/admin/admin.php:60
+msgid "Name"
+msgstr "İsim"
+
+#: support-tickets/admin/admin.php:61
+msgid "Required field?"
+msgstr "Zorunlu alan?"
+
+#: support-tickets/admin/admin.php:62
+msgid "Allow multiple selections?"
+msgstr "Çoklu seçime izin ver?"
+
+#: support-tickets/admin/admin.php:63
+msgid "Insert a blank item as the first option?"
+msgstr "Ilk seçenek olarak boş bir öğe ekle?"
+
+#: support-tickets/admin/admin.php:64
+msgid "Make checkboxes exclusive?"
+msgstr "Özel onay kutuları yarat?"
+
+#: support-tickets/admin/admin.php:65
+msgid "Choices"
+msgstr "Seçenekler"
+
+#: support-tickets/admin/admin.php:66
+msgid "Label"
+msgstr "Etiket"
+
+#: support-tickets/admin/admin.php:67
+msgid "Default value"
+msgstr "Öntanımlı değer"
+
+#: support-tickets/admin/admin.php:68
+msgid "Akismet"
+msgstr "Aksimet"
+
+#: support-tickets/admin/admin.php:69
+msgid "This field requires author's name"
+msgstr "Bu alan, yazar adı gerektirir"
+
+#: support-tickets/admin/admin.php:70
+msgid "This field requires author's URL"
+msgstr "Bu alan, yazar URL adresi gerektirir"
+
+#: support-tickets/admin/admin.php:71
+msgid "This field requires author's email address"
+msgstr "Bu alan, yazar e-postası gerektirir"
+
+#: support-tickets/admin/admin.php:72
+msgid "Copy this code and paste it into the form left."
+msgstr "Bu kodu kopyalayın ve formu sola yapıştırın."
+
+#: support-tickets/admin/admin.php:73
+msgid "Foreground color"
+msgstr "Önyüz rengi"
+
+#: support-tickets/admin/admin.php:74
+msgid "Background color"
+msgstr "Arkaplan rengi"
+
+#: support-tickets/admin/admin.php:75
+msgid "Image size"
+msgstr "Resim boyutu"
+
+#: support-tickets/admin/admin.php:76
+msgid "Small"
+msgstr "Küçük"
+
+#: support-tickets/admin/admin.php:77
+msgid "Medium"
+msgstr "Orta"
+
+#: support-tickets/admin/admin.php:78
+msgid "Large"
+msgstr "Büyük"
+
+#: support-tickets/admin/admin.php:79
+msgid "Image settings"
+msgstr "Resm ayarları"
+
+#: support-tickets/admin/admin.php:80
+msgid "Input field settings"
+msgstr "Giriş alanı ayarları"
+
+#: support-tickets/admin/admin.php:81
+msgid "For image"
+msgstr "Resim için"
+
+#: support-tickets/admin/admin.php:82
+msgid "For input field"
+msgstr "Giriş alanı için"
+
+#: support-tickets/admin/admin.php:83
+msgid "* One choice per line."
+msgstr "* Satır başına tek seçim."
+
+#: support-tickets/admin/admin.php:84
+msgid "Note: To use CAPTCHA, you need Really Simple CAPTCHA plugin installed."
+msgstr "Not: CAPTCHA kullanabilmek için Really Simple CAPTCHA eklentisi yüklenmiş olmalıdır."
+
+#: support-tickets/admin/admin.php:95
+#: support-tickets/admin/admin.php:111
+#: support-tickets/admin/admin.php:127
+#: support-tickets/admin/admin.php:139
+#: support-tickets/admin/admin.php:153
+#: support-tickets/admin/admin.php:167
+#: support-tickets/admin/admin.php:184
+#: support-tickets/admin/admin.php:213
+#: support-tickets/admin/admin.php:235
+#: support-tickets/admin/admin.php:249
+msgid "Cheatin&#8217; uh?"
+msgstr "Cheatin&#8217; uh?"
+
+#: support-tickets/admin/admin.php:277
+msgid "Support Tickets"
+msgstr "Destek Bildirimleri"
+
+#: support-tickets/admin/admin.php:277
+msgid "Support"
+msgstr "Destek"
+
+#: support-tickets/admin/admin.php:280
+#: support-tickets/admin/edit-forms.php:27
+msgid "Edit Forms"
+msgstr "Formları Düzenle"
+
+#: support-tickets/admin/admin.php:280
+msgid "Forms"
+msgstr "Formlar"
+
+#: support-tickets/admin/admin.php:283
+#: support-tickets/admin/edit-tickets.php:57
+msgid "Edit Tickets"
+msgstr "Ticketları Düzenle"
+
+#: support-tickets/admin/admin.php:283
+msgid "Tickets"
+msgstr "Ticketlar"
+
+#: support-tickets/admin/admin.php:292
+msgid "Form created."
+msgstr "Form oluşturuldu."
+
+#: support-tickets/admin/admin.php:294
+msgid "Form updated."
+msgstr "Form Güncellendi"
+
+#: support-tickets/admin/admin.php:296
+msgid "Form deleted."
+msgstr "Form Silindi"
+
+#: support-tickets/admin/admin.php:298
+msgid "Ticket closed."
+msgstr "Bildirim kapatıldı"
+
+#: support-tickets/admin/admin.php:300
+msgid "Ticket reopened."
+msgstr "Bildirim tekrar açıldı."
+
+#: support-tickets/admin/admin.php:302
+msgid "Ticket deleted."
+msgstr "Bildirim silindi."
+
+#: support-tickets/admin/admin.php:304
+msgid "Ticket updated."
+msgstr "Bildirim güncellendi."
+
+#: support-tickets/admin/admin.php:306
+msgid "Tickets closed."
+msgstr "Bildirimler kapatıldı."
+
+#: support-tickets/admin/admin.php:308
+msgid "Tickets deleted."
+msgstr "Bildirimler silindi."
+
+#: support-tickets/admin/admin.php:310
+msgid "Message status changed."
+msgstr "Mesajın durumu değiştirildi."
+
+#: support-tickets/admin/admin.php:312
+msgid "Message updated."
+msgstr "Mesaj güncellendi."
+
+#: support-tickets/admin/admin.php:314
+msgid "Message deleted."
+msgstr "Mesaj silindi."
+
+#: support-tickets/admin/admin.php:325
+msgid "Recent Updated Support Tickets"
+msgstr "Son Güncelleme Destek Bildirimleri"
+
+#: support-tickets/admin/admin.php:335
+msgid "No pending tickets now."
+msgstr "Şu anda bekleyen bildirim yok."
+
+#: support-tickets/admin/admin.php:348
+#, php-format
+msgid "From %1$s on %2$s"
+msgstr "From %1$s on %2$s"
+
+#: support-tickets/admin/admin.php:358
+msgid "No messages yet."
+msgstr "Şu anda mesaj yok"
+
+#: support-tickets/admin/admin.php:367
+msgid "View all"
+msgstr "Hepsini görüntüle"
+
+#: support-tickets/admin/edit-forms.php:36
+msgid "Add new"
+msgstr "Yeni ekle"
+
+#: support-tickets/admin/edit-forms.php:60
+msgid "Form Page"
+msgstr "Form Sayfası"
+
+#: support-tickets/admin/edit-forms.php:63
+msgid "- Select -"
+msgstr "- Seçim -"
+
+#: support-tickets/admin/edit-forms.php:68
+msgid "View Page"
+msgstr "Sayfayı Görüntüle"
+
+#: support-tickets/admin/edit-forms.php:75
+#: support-tickets/admin/edit-forms.php:119
+msgid "Create Form"
+msgstr "Form Oluştur"
+
+#: support-tickets/admin/edit-forms.php:77
+#: support-tickets/admin/edit-forms.php:121
+msgid "Update Form"
+msgstr "Form Güncelle"
+
+#: support-tickets/admin/edit-forms.php:84
+msgid "Delete Form"
+msgstr "Form Sil"
+
+#: support-tickets/admin/edit-forms.php:86
+msgid ""
+"You are about to delete this form.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Bu formu silmek üzeresiniz.\n"
+"Durdurmak için 'Cancel' , Silmek için 'OK'."
+
+#: support-tickets/admin/edit-forms.php:98
+msgid "Form Design"
+msgstr "Form Tasarımı"
+
+#: support-tickets/admin/edit-message.php:3
+msgid "Edit Message"
+msgstr "Mesaj Düzenle"
+
+#: support-tickets/admin/edit-message.php:23
+msgid "Save"
+msgstr "Kaydet"
+
+#: support-tickets/admin/edit-message.php:28
+#: support-tickets/admin/edit-ticket.php:78
+#: support-tickets/admin/edit-tickets.php:109
+#: support-tickets/admin/edit-tickets.php:200
+msgid "Delete"
+msgstr "Sil"
+
+#: support-tickets/admin/edit-message.php:30
+msgid ""
+"You are about to delete this message.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Bu mesajı silmek üzeresiniz.\n"
+"Durdurmak için 'Cancel' , Silmek için 'OK'."
+
+#: support-tickets/admin/edit-ticket.php:3
+msgid "Edit Ticket"
+msgstr "Bildirimi Düzenle"
+
+#: support-tickets/admin/edit-ticket.php:26
+#: support-tickets/admin/edit-tickets.php:139
+#: support-tickets/admin/edit-tickets.php:152
+msgid "Author"
+msgstr "Yazar"
+
+#: support-tickets/admin/edit-ticket.php:31
+#: support-tickets/admin/edit-tickets.php:142
+#: support-tickets/admin/edit-tickets.php:155
+msgid "Created"
+msgstr "Bildirim Tarihi"
+
+#: support-tickets/admin/edit-ticket.php:36
+#: support-tickets/admin/edit-tickets.php:143
+#: support-tickets/admin/edit-tickets.php:156
+msgid "Updated"
+msgstr "Güncellenme Tarihi"
+
+#: support-tickets/admin/edit-ticket.php:41
+#: support-tickets/admin/edit-tickets.php:144
+#: support-tickets/admin/edit-tickets.php:157
+#: support-tickets/includes/classes.php:583
+msgid "Status"
+msgstr "Durum"
+
+#: support-tickets/admin/edit-ticket.php:47
+msgid "Additional Fields"
+msgstr "Ek Alanlar"
+
+#: support-tickets/admin/edit-ticket.php:66
+msgid "View Ticket Page"
+msgstr "Bildirim Sayfasını Görüntüle"
+
+#: support-tickets/admin/edit-ticket.php:69
+#: support-tickets/includes/classes.php:592
+msgid "Close This Ticket"
+msgstr "Bu Bildirimi Kapat"
+
+#: support-tickets/admin/edit-ticket.php:71
+#: support-tickets/includes/classes.php:590
+msgid "Reopen This Ticket"
+msgstr "Bu Bildirimi Tekrar Aç"
+
+#: support-tickets/admin/edit-ticket.php:80
+msgid ""
+"You are about to delete this ticket.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Bu bildirimi silmek üzeresiniz.\n"
+"Durdurmak için 'Cancel' , Silmek için 'OK'."
+
+#: support-tickets/admin/edit-ticket.php:97
+#: support-tickets/admin/edit-tickets.php:140
+#: support-tickets/admin/edit-tickets.php:153
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: support-tickets/admin/edit-ticket.php:119
+#: support-tickets/admin/edit-ticket.php:124
+#: support-tickets/includes/classes.php:1252
+msgid "Draft"
+msgstr "Taslak"
+
+#: support-tickets/admin/edit-ticket.php:124
+msgid "Publish"
+msgstr "Yayınla"
+
+#: support-tickets/admin/edit-ticket.php:126
+#: support-tickets/admin/edit-tickets.php:180
+#: support-tickets/includes/classes.php:596
+msgid "Edit"
+msgstr "Düzenle"
+
+#: support-tickets/admin/edit-tickets.php:65
+msgid "All"
+msgstr "Hepsi"
+
+#: support-tickets/admin/edit-tickets.php:69
+msgid "Pending"
+msgstr "Bekliyor"
+
+#: support-tickets/admin/edit-tickets.php:75
+msgid "Replied"
+msgstr "Cevaplanmış"
+
+#: support-tickets/admin/edit-tickets.php:81
+msgid "Closed"
+msgstr "Kapatılmış"
+
+#: support-tickets/admin/edit-tickets.php:92
+#: support-tickets/admin/edit-tickets.php:95
+msgid "Search Tickets"
+msgstr "Bildirimlerde Ara"
+
+#: support-tickets/admin/edit-tickets.php:107
+#: support-tickets/admin/edit-tickets.php:198
+msgid "Bulk Actions"
+msgstr "Toplu Eylemler"
+
+#: support-tickets/admin/edit-tickets.php:108
+#: support-tickets/admin/edit-tickets.php:199
+msgid "Close"
+msgstr "Kapat"
+
+#: support-tickets/admin/edit-tickets.php:111
+#: support-tickets/admin/edit-tickets.php:202
+msgid "Apply"
+msgstr "Uygula"
+
+#: support-tickets/admin/edit-tickets.php:116
+msgid "Order by Update Time"
+msgstr "Güncellenme Tarihine Göre Sırala"
+
+#: support-tickets/admin/edit-tickets.php:118
+msgid "Order by Create Time"
+msgstr "Gönderilme Tarihine Göre Sırala"
+
+#: support-tickets/admin/edit-tickets.php:120
+msgid "Order by Ticket ID"
+msgstr "Bildirim Numarasına Göre Sırala"
+
+#: support-tickets/admin/edit-tickets.php:124
+msgid "Filter"
+msgstr "Filtre"
+
+#: support-tickets/admin/edit-tickets.php:138
+#: support-tickets/admin/edit-tickets.php:151
+#: support-tickets/includes/classes.php:488
+msgid "Subject"
+msgstr "Konu"
+
+#: support-tickets/admin/edit-tickets.php:141
+#: support-tickets/admin/edit-tickets.php:154
+msgid "Form"
+msgstr "Form"
+
+#: support-tickets/admin/edit-tickets.php:216
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: support-tickets/admin/edit-tickets.php:217
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: support-tickets/includes/classes.php:65
+#: support-tickets/includes/controller.php:52
+msgid "Validation errors occurred. Please confirm the fields and submit it again."
+msgstr "Doğrulama hataları oluştu. Lütfen alanları onaylayın ve yeniden gönderin."
+
+#: support-tickets/includes/classes.php:68
+#: support-tickets/includes/controller.php:59
+#: support-tickets/includes/controller.php:74
+#: support-tickets/includes/controller.php:127
+msgid "Problem occurred. Please try later or contact administrator by other way."
+msgstr "Problem oluştu. Lütfen daha sonra deneyin."
+
+#: support-tickets/includes/classes.php:470
+#: support-tickets/includes/classes.php:480
+msgid "Untitled"
+msgstr "Konusuz"
+
+#: support-tickets/includes/classes.php:482
+msgid "Your Email"
+msgstr "E-posta Adresiniz"
+
+#: support-tickets/includes/classes.php:482
+#: support-tickets/includes/classes.php:488
+#: support-tickets/includes/classes.php:490
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: support-tickets/includes/classes.php:484
+msgid "First Name"
+msgstr "İsim"
+
+#: support-tickets/includes/classes.php:486
+msgid "Last Name"
+msgstr "Soyisim"
+
+#: support-tickets/includes/classes.php:490
+msgid "Message"
+msgstr "Mesaj"
+
+#: support-tickets/includes/classes.php:492
+msgid "Send"
+msgstr "Yolla"
+
+#: support-tickets/includes/classes.php:548
+msgid "This ticket has been closed."
+msgstr "Bu bildirim kapatılmıştır."
+
+#: support-tickets/includes/classes.php:564
+msgid "Send Message"
+msgstr "Mesajı yolla"
+
+#: support-tickets/includes/classes.php:603
+msgid "Previous pending ticket"
+msgstr "Önceki bekleyen bildirim"
+
+#: support-tickets/includes/classes.php:612
+msgid "Next pending ticket"
+msgstr "Sonraki bekleyen bildirim"
+
+#: support-tickets/includes/classes.php:623
+msgid "Ticket Info"
+msgstr "Bildirim Bilgileri"
+
+#: support-tickets/includes/classes.php:674
+#, php-format
+msgid "%1$s %2$s|Name of person"
+msgstr "%1$s %2$s|Kişinin adı"
+
+#: support-tickets/includes/controller.php:31
+#: support-tickets/includes/controller.php:99
+#: support-tickets/includes/controller.php:155
+#: support-tickets/includes/controller.php:193
+msgid "Please submit again."
+msgstr "Lütfen tekrar gönderin."
+
+#: support-tickets/includes/controller.php:56
+#: support-tickets/includes/controller.php:118
+msgid "Please accept the terms to proceed."
+msgstr "Lütfen devam etmek için koşulları kabul ediniz."
+
+#: support-tickets/includes/controller.php:68
+msgid "Your ticket is now open. Redirecting to the ticket page."
+msgstr "Bildiriminiz açııldı. Bildirim sayfasına yönlendiriliyor."
+
+#: support-tickets/includes/controller.php:165
+msgid "Please input message."
+msgstr "Lütfen mesaj yazınız."
+
+#: support-tickets/includes/controller.php:217
+msgid "You are not allowed to see this ticket."
+msgstr "Bu bildirimi görme yetkisine sahip değilsiniz"
+
+#: support-tickets/includes/formatting.php:84
+#, php-format
+msgid "%s ago"
+msgstr "%s zaman önce"
+
+#: support-tickets/includes/formatting.php:86
+msgid "Y/m/d H:i"
+msgstr "Y/m/d H:i"
+
+#: support-tickets/includes/notifications.php:9
+#, php-format
+msgid "[%s] Support Tickets - A new ticket (TKT:%d)"
+msgstr "[%s] Destek Bildirimleri - Yeni Bildirim (TKT:%d)"
+
+#: support-tickets/includes/notifications.php:12
+msgid "A new ticket has opened."
+msgstr "Yeni bildirim açıldı"
+
+#: support-tickets/includes/notifications.php:13
+#, php-format
+msgid "Subject: %s"
+msgstr "Konu: %s"
+
+#: support-tickets/includes/notifications.php:14
+#, php-format
+msgid "Author: %s"
+msgstr "Gönderen: %s"
+
+#: support-tickets/includes/notifications.php:16
+#, php-format
+msgid "See the messages on the web at %s"
+msgstr "Mesalarınızı izlemek için %s"
+
+#: support-tickets/includes/notifications.php:20
+#: support-tickets/includes/notifications.php:63
+#: support-tickets/includes/notifications.php:85
+msgid "Please do not reply to this message; it was sent from an unmonitored email address."
+msgstr "Lütfen bu mesaja cevap vermeyin; bir denetsiz e-posta adresinden gönderilmiştir."
+
+#: support-tickets/includes/notifications.php:24
+#: support-tickets/includes/notifications.php:55
+#, php-format
+msgid "Hi, %s."
+msgstr "Merhaba, %s."
+
+#: support-tickets/includes/notifications.php:32
+#: support-tickets/includes/notifications.php:80
+msgid "Message Body:"
+msgstr "Mesaj içeriği:"
+
+#: support-tickets/includes/notifications.php:52
+#: support-tickets/includes/notifications.php:71
+#, php-format
+msgid "[%s] Support Tickets - You have a reply (TKT:%d)"
+msgstr "[%s] Destek Bildirimleri - Bir cevabınız var (TKT:%d)"
+
+#: support-tickets/includes/notifications.php:56
+#: support-tickets/includes/notifications.php:74
+#, php-format
+msgid "You have a new reply message from %s"
+msgstr "Bir cevabınız var"
+
+#: support-tickets/includes/notifications.php:59
+#: support-tickets/includes/notifications.php:77
+#, php-format
+msgid "See the message and reply on the web at %s"
+msgstr "Mesajınızı görüntülemek için takip edeceğiniz bağlantı %s"
+
+#: support-tickets/modules/captcha.php:56
+msgid "To use CAPTCHA, you need <a href=\"http://wordpress.org/extend/plugins/really-simple-captcha/\">Really Simple CAPTCHA</a> plugin installed."
+msgstr "CAPTCHA kullanabilmek için <a href=\"http://wordpress.org/extend/plugins/really-simple-captcha/\">Really Simple CAPTCHA</a> eklentisini kurmalısınız."
+
+#: support-tickets/modules/captcha.php:120
+msgid "Your entered code is incorrect."
+msgstr "Girmiş olduğunuz kod yanlış."
+
+#: support-tickets/modules/checkbox.php:142
+#: support-tickets/modules/select.php:125
+#: support-tickets/modules/text.php:103
+#: support-tickets/modules/text.php:110
+#: support-tickets/modules/textarea.php:92
+msgid "Please fill the required field."
+msgstr "Lütfen gerekli tüm alanları doldurunuz."
+
+#: support-tickets/modules/icl.php:280
+msgid "All languages"
+msgstr "Bütün diller"
+
+#: support-tickets/modules/icl.php:441
+msgid "Translate this reply to visitor's language?"
+msgstr "Bu cevabı ziyaretçinin diline çevir?"
+
+#: support-tickets/modules/icl.php:443
+#: support-tickets/modules/icl.php:627
+#, php-format
+msgid "%1$s &raquo; %2$s"
+msgstr "%1$s &raquo; %2$s"
+
+#: support-tickets/modules/icl.php:523
+#, php-format
+msgid "[%s] Support Tickets - Translation is complete (TKT:%d)"
+msgstr "[%s] Destek Bildirimi - Çeviri Tamamlandı (TKT:%d)"
+
+#: support-tickets/modules/icl.php:526
+msgid "Translation for your message is complete."
+msgstr "Mesajınız çevirisi tamamlandı."
+
+#: support-tickets/modules/icl.php:528
+#, php-format
+msgid "See the message and publish it on the web at %s"
+msgstr "Mesajı görün ve %s adresinde yayınlayın."
+
+#: support-tickets/modules/icl.php:574
+msgid "Translation for this message is now in progress."
+msgstr "Bu mesajın çevirisi devam ediyor."
+
+#: support-tickets/modules/icl.php:578
+msgid "Translation for this message is failed."
+msgstr "Bu mesajın çevirisi yapılamadı."
+
+#: support-tickets/modules/icl.php:582
+msgid "Translation for this message is complete."
+msgstr "Bu mesajın çevirisi tamamlandı."
+
+#: support-tickets/modules/icl.php:591
+msgid "&raquo; Publish this message and notify the ticket author."
+msgstr "&raquo; Mesajı yayınla ve yazarına haber ver."
+
+#: support-tickets/modules/icl.php:624
+msgid "Translation"
+msgstr "Çeviri"
+
+#: support-tickets/modules/icl.php:626
+msgid "Translated by Google"
+msgstr "Google Tarafından çevirilmiştir."
+
+#: support-tickets/modules/paypal.php:54
+#, php-format
+msgid "[%s] Support Tickets - Paid Support - Ticket #%d"
+msgstr "[%s] Destek Bildirimleri - Ücretli Destek - Bildirim #%d"
+
+#: support-tickets/modules/paypal.php:60
+msgid "Return to Support Ticket Page"
+msgstr "Destek Bidirimi Sayfasına Geri Dönün"
+
+#: support-tickets/modules/paypal.php:77
+#, php-format
+msgid "Pay Now : %s"
+msgstr "Şimdi Ödeme Yapın : %s"
+
+#: support-tickets/modules/paypal.php:78
+msgid "Pay Now"
+msgstr "Şimdi Ödeme Yapın"
+
+#: support-tickets/modules/quiz.php:97
+msgid "Your answer is not correct."
+msgstr "Cevabınız doğru değil."
+
+#: support-tickets/modules/text.php:113
+msgid "Email address seems invalid."
+msgstr "E-posta adresi doğru gözükmüyor."
+
